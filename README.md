@@ -1,1 +1,1 @@
-Set10107 Coursework **2024**
+Set10107 Computational Intelligence Coursework **2024**
